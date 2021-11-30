@@ -4,7 +4,7 @@
 	<groupId>com.a9ski.brooklyn</groupId>
 	<artifactId>apache-brooklyn-ldap-provider</artifactId>
 	<packaging>jar</packaging>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.2-SNAPSHOT</version>
 	<name>apache-brooklyn-ldap-provider</name>
 	
 	<description>LDAP provider for apache brooklyn, that allows to specify the user pattern for LDAP binding.</description>
@@ -67,7 +67,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version>
+			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
